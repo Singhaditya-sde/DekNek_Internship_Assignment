@@ -189,6 +189,9 @@ Backend → http://localhost:8000
 
 * MongoDB Atlas (cloud database)
 
+* <img width="641" height="142" alt="image" src="https://github.com/user-attachments/assets/c36bbf97-33db-4f2b-9f81-f1286e6afd01" />
+
+
 ---
 
 ## 🎯 Key Learnings
