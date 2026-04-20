@@ -8,7 +8,7 @@ A production-ready authentication system built with **React (Vite + TypeScript)*
 
 ## 🌐 Live Demo
 
-* 🔗 Frontend: https://rasoihire.tech
+* 🔗 Frontend: https://www.rasoihire.tech/
 * 🔗 Backend API: https://api.rasoihire.tech
 
 ---
